@@ -11,3 +11,9 @@ You may need to `pip install --user -r requirements.txt` or conda install the re
 The files are also hosted [here](https://conrad.pythonanywhere.com/pydata) and there is a tar file as well.
 
 
+
+Some useful links:
+
+### Machine Learning
+- Confused about which ML algorithm to use? [Here's a handy chart](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
+- Free [ML data sets](http://archive.ics.uci.edu/ml/)
