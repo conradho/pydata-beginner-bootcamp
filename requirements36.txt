@@ -1,0 +1,8 @@
+pandas
+quandl
+wordcloud
+tables
+ipykernel
+matplotlib
+numpy
+scipy

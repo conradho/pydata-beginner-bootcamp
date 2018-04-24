@@ -1,6 +1,0 @@
-zipline==0.7.0
-pandas==0.18.1
-quandl==3.0.0
-gevent==1.1.1
-wordcloud==1.2.1
-tables==3.2.2

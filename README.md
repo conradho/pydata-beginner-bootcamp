@@ -6,7 +6,7 @@ There are html versions of the notebooks with output, and .ipynb versions withou
 
 All the notebooks are intended to be used with python3.6.
 
-You may need to `pip install --user -r requirements.txt` or conda install the relevant packages.
+You may need to `pip install --user -r requirements36.txt` from within a python3.6 virtualenv or conda install the relevant packages.
 
 The files are also hosted [here](https://conrad.pythonanywhere.com/pydata/) and there is a tar file as well.
 
