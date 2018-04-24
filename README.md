@@ -4,7 +4,7 @@ Here you can find the 4 notebooks, as well as some pre-processing scripts and th
 
 There are html versions of the notebooks with output, and .ipynb versions without output.
 
-All the notebooks are intended to be used with python3.5.
+All the notebooks are intended to be used with python3.6.
 
 You may need to `pip install --user -r requirements.txt` or conda install the relevant packages.
 

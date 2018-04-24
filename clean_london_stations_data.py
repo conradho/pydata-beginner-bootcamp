@@ -1,6 +1,6 @@
 # let's grab the data from the downloaded file
 # if you don't have fastkml, you will need to run
-# `pip3.5 install --user fastkml`
+# `pip3.6 install --user fastkml`
 
 from fastkml import kml
 with open('datasets/stations.kml', 'rb') as data_file:
