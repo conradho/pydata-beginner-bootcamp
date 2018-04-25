@@ -6,3 +6,5 @@ ipykernel
 matplotlib
 numpy
 scipy
+nbstripout
+nbformat
