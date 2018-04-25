@@ -1,4 +1,7 @@
+https://github.com/matplotlib/basemap/archive/master.zip
+geopandas==0.3.0
 ipykernel==4.8.2
+ipywidgets==7.2.1
 matplotlib==2.2.2
 nbformat==4.4.0
 nbstripout==0.3.1
