@@ -11,7 +11,10 @@ The files are also hosted [here](https://conrad.pythonanywhere.com/pydata/) and 
 
 ### Setup
 
-You may need to `pip install -r requirements36.txt` from within a python3.6 virtualenv or conda install the relevant packages.
+    git clone https://github.com/conradho/pydata-beginner-bootcamp
+    cd pydata-beginner-bootcamp
+    mkvirtualenv pydata --python=`which python3.6`
+    pip install -q -r requirements36.txt
 
 To contribute to the repo:
 1. `pip install nbstripout` then `nbstripout --install` from within your git repo. This will setup the git filters etc to strip out output from .ipynb files
